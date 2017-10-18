@@ -1,0 +1,10 @@
+  590  git init
+  591  git add index.html assets/styles.css
+  592  git status
+  593  git commit -m “CommitIndexandStyles”\n
+  594  git remote add origin https://github.com/BryanLong14/Version-Control-Drill-2.git\n
+  595  git push origin master
+  596  git add .
+  597  git commit -m “CommitVersion2”
+  598  git push origin master 
+  599  git pull origin master
